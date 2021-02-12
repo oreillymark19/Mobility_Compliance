@@ -1,0 +1,84 @@
+
+{
+	"Algoma Public Health Unit":"Algoma District",
+	"Brant County Health Unit": [
+		"Brant County",
+		"Brantford"
+	],
+	"Chatham-Kent Health Unit": "Chatham-Kent Division",
+	"Durham Region Health Department" : "Regional Municipality of Durham",
+	"Eastern Ontario Health Unit" : [
+		"Prescott and Russell United Counties",
+		"Stormont, Dundas and Glengarry United Counties"
+	],
+	"Grey Bruce Health Unit": [
+		"Bruce County",
+		"Grey County"
+	],
+	"Haldimand-Norfolk Health Unit" : [
+	"Haldimand County",
+	"Norfolk County"
+	],
+	"Haliburton, Kawartha, Pine Ridge District Health Unit": [
+		"Haliburton County",
+		"Kawartha Lakes Division",
+		"Northumberland County"
+	],
+	"Halton Region Health Department" :  "Regional Municipality of Halton",
+	"Hamilton Public Health": "Hamilton Division",
+	"Hastings and Prince Edward Counties Health Unit":[
+		"Hastings County",
+		"Prince Edward County"
+	],
+	"Huron Perth Health Unit": [
+		"Huron County",
+		"Perth County"
+	],
+	"Kingston, Frontenac and Lennox and Addington Health Unit":[
+		"Frontenac County",
+		"Lennox and Addington County"
+	],
+	"Lambton Public Health" : "Lambton County",
+	"Leeds, Grenville and Lanark District Health Unit" :[
+		"Lanark County", 
+		"Leeds and Grenville United Counties"
+	],
+	"Middlesex-London Health Unit":"Middlesex County",
+	"Niagara Region Public Health Department" : "Regional Municipality of Niagara",
+	"North Bay Parry Sound District Health Unit":[
+		"Parry Sound District",
+		"Nipissing District"
+	],
+	"Northwestern Health Unit": [
+		"Kenora District",
+		"Rainy River District"
+	],
+	"Ottawa Public Health":"Ottawa Division",
+	"Peel Public Health" :"Regional Municipality of Peel",
+	"Peterborough Public Health":"Peterborough County",
+	"Porcupine Health Unit" : "Cochrane District",
+	"Region of Waterloo, Public Health":"Waterloo Regional Municipality",
+	"Renfrew County and District Health Unit" : "Renfrew County",
+	"Simcoe Muskoka District Health Unit" : [
+		"Simcoe County",
+		"Muskoka District Municipality"
+	],
+	"Southwestern Public Health": [
+		"Elgin County",
+		"Oxford County"
+	],
+	"Sudbury and District Health Unit":[
+		"Greater Sudbury Division",
+		"Sudbury District",
+		"Manitoulin District"
+	],
+	"Thunder Bay District Health Unit":"Thunder Bay District",
+	"Timiskaming Health Unit": "Timiskaming District",
+	"Toronto Public Health":"Toronto Division",
+	"Wellington-Dufferin-Guelph Health Unit":  [
+		"Wellington County",
+		"Dufferin County"
+	],
+	"Windsor-Essex County Health Unit": "Essex County",
+	"York Region Public Health":"Regional Municipality of York"
+}
